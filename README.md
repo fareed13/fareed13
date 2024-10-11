@@ -1,4 +1,6 @@
+<p align="center" >
 # Hello! I'm Fareed 👋
+</p>
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** dedicated to building **scalable web applications**. I specialize in **Python/Django** for backend development and **React/Vue.js** for frontend solutions. My goal is to help businesses turn their ideas into reliable, user-friendly, and scalable products.
 
@@ -8,6 +10,8 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** dedicate
 - **Cloud & Deployment**: Host and deploy applications on **AWS**, **Netlify**, **Vercel**, and **DigitalOcean**.
 - **AI/ML Integration**: Add **AI features** using **OpenAI** and **machine learning models** for smart apps.
 - **Full-Stack Solutions**: Provide complete **end-to-end web development** services, from backend APIs to polished frontend applications.
+
+
 
 ## 💻 Languages & Tools:
 
@@ -48,3 +52,8 @@ If you're looking for a reliable developer to bring your project to life, feel f
 - 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 
 ---
+
+<div align="center">
+    <img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" alt="Space Coding" width="480" height="480"/>
+</div>
+
