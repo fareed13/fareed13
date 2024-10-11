@@ -29,17 +29,24 @@ Here are some of the languages and tools I work with:
 
 ## 📈 Recent Projects
 
-### **Project 1: AI-Powered Content Generation Platform**
-- **Tech Stack**: Python, Django, React.js, OpenAI, AWS  
-- **Description**: Developed a content generation platform where users can create articles and social media posts using **AI** powered by **OpenAI**. Deployed on **AWS**, the platform supports **multi-user authentication**, **real-time data updates**, and **personalized content suggestions**.
-- **Impact**: Increased user engagement by **50%** and reduced content creation time by **70%**.
 
-### **Project 2: E-Commerce Website with Real-Time Features**
+
+### **[Copycopter.ai](https://copycopter.ai/)**  
+Designed an **AI-driven content generation platform** for efficient marketing solutions. This platform assists marketers in creating high-quality content quickly and at scale.
+
+---
+
+### **[Treat Well](https://www.treatwell.co.uk/)**  
+Developed a **web application** focused on promoting wellness and health management. The app provides services for booking wellness treatments and managing health routines.
+
+
+
+### **Project 3: E-Commerce Website with Real-Time Features**
 - **Tech Stack**: Django, React.js, Vue.js, PostgreSQL, Netlify  
 - **Description**: Built a full-fledged **e-commerce website** with features like **real-time inventory updates**, **multi-language support**, and **dynamic product recommendations**. Hosted on **Netlify** for easy continuous deployment and fast performance.
 - **Impact**: Boosted online sales by **25%** and significantly reduced page load time.
 
-### **Project 3: Real-Time Collaborative To-Do App**
+### **Project 4: Real-Time Collaborative To-Do App**
 - **Tech Stack**: React.js, Vue.js, Firebase, DigitalOcean  
 - **Description**: Designed and developed a **real-time collaborative to-do app** where users can manage tasks, share them, and collaborate with others. Hosted on **DigitalOcean** and integrated with **Firebase** for real-time data sync.
 - **Impact**: Gained **10,000+ active users** within the first month of launch.
